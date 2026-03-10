@@ -1,8 +1,10 @@
 # -*- mode: sh; eval: (sh-set-shell "zsh") -*-
 #
-# Plugin Name: kiro
-# Description: Zsh plugin to set up environment when running in Kiro.
-# Repository: https://github.com/johnstonskj/zsh-kiro-plugin
+# @name: kiro
+# @brief: Set up environment when running inside AWS's Kiro IDE.
+# @repository: https://github.com/johnstonskj/zsh-kiro-plugin
+# @version: 0.1.1
+# @license: MIT AND Apache-2.0
 #
 # Public variables:
 #
